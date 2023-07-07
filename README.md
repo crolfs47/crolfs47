@@ -1,15 +1,17 @@
 # Hi there 👋
 
 I'm a full-stack software developer based in Chicago, IL. 
+- 🔭 I’m currently working on The Odin Project's Full Stack Ruby on Rails curriculum
+- 🌱 I’m currently learning React
 
 ## Languages & Tools
 Languages:
 
-[![Ruby](https://img.shields.io/badge/Ruby-40705C?style=flat&logo=ruby&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-40705C?style=flat-square&logo=javascript&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-40705C?style=plastic&logo=python&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML5-40705C?style=social&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS3-40705C?style=flat&logo=css3&logoColor=white)](#)
+[![Ruby](https://img.shields.io/badge/Ruby-40705C?style=for-the-badge&logo=ruby&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-40705C?style=for-the-badge&logo=javascript&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-40705C?style=for-the-badge&logo=python&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML5-40705C?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS3-40705C?style=for-the-badge&logo=css3&logoColor=white)](#)
 
 Tools & Frameworks:
 
@@ -30,9 +32,11 @@ Tools & Frameworks:
 [![VS Code](https://img.shields.io/badge/VSCode-40705C?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 
 ## Get In Touch
-[![LinkedIn](https://img.shields.io/badge/-Cathy_Rolfs-40705C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cathy-rolfs/)
-[![Gmail](https://img.shields.io/badge/-Cathy_Rolfs-40705C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crolfs47@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Cathy_Rolfs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cathy-rolfs/)
+[![Gmail](https://img.shields.io/badge/-Cathy_Rolfs-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crolfs47@gmail.com)
 
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crolfs47&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **crolfs47/crolfs47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
