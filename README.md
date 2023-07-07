@@ -36,7 +36,7 @@ Tools & Frameworks:
 [![Gmail](https://img.shields.io/badge/-Cathy_Rolfs-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crolfs47@gmail.com)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crolfs47&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crolfs47&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **crolfs47/crolfs47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
