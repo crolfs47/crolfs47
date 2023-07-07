@@ -5,11 +5,11 @@ I'm a full-stack software developer based in Chicago, IL.
 ## Languages & Tools
 Languages:
 
-[![Ruby](https://img.shields.io/badge/Ruby-40705C?style=for-the-badge&logo=ruby&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-40705C?style=for-the-badge&logo=javascript&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-40705C?style=for-the-badge&logo=python&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML5-40705C?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS3-40705C?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Ruby](https://img.shields.io/badge/Ruby-40705C?style=flat&logo=ruby&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-40705C?style=flat&logo=javascript&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-40705C?style=flat&logo=python&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML5-40705C?style=flat&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS3-40705C?style=flat&logo=css3&logoColor=white)](#)
 
 Tools & Frameworks:
 
