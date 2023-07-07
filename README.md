@@ -25,13 +25,13 @@ Tools & Frameworks:
 [![Bulma](https://img.shields.io/badge/Bulma-40705C?style=for-the-badge&logo=Bulma&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-40705C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/GIT-40705C?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Github](https://img.shields.io/badge/GitHub-40705C?style=for-the-badge&logo=github&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VSCode-40705C?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 
 ## Get In Touch
-[![LinkedIn](https://img.shields.io/badge/-Cathy_Rolfs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cathy-rolfs/)
-[![Gmail](https://img.shields.io/badge/-Cathy_Rolfs-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crolfs47@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Cathy_Rolfs-40705C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cathy-rolfs/)
+[![Gmail](https://img.shields.io/badge/-Cathy_Rolfs-40705C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crolfs47@gmail.com)
 
 <!--
 **crolfs47/crolfs47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
