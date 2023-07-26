@@ -35,6 +35,10 @@ Tools & Frameworks:
 [![LinkedIn](https://img.shields.io/badge/-Cathy_Rolfs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cathy-rolfs/)
 [![Gmail](https://img.shields.io/badge/-Cathy_Rolfs-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crolfs47@gmail.com)
 
+## Learning Path
+ - [Python Programming: A Concise Introduction](https://www.coursera.org/learn/python-programming-introduction/home/week/1)
+ - [Harvard University CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+ - [The Odin Project: Full Stack Ruby on Rails](https://www.theodinproject.com/)
 
 <!--
 **crolfs47/crolfs47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
